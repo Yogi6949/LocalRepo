@@ -1,0 +1,23 @@
+th{
+    color: rgb(187, 9, 9);
+    background-color: rgb(166, 215, 229);
+}
+
+table{
+    background-color: rgb(131, 145, 138);
+    border-bottom: red;
+    
+}
+
+h2{
+    color: darkgreen;
+}
+
+body{
+    background-color: rgb(181, 201, 128);
+    text-align: center;
+}
+
+td{
+    color: white;
+}
